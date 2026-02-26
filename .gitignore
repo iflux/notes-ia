@@ -1,0 +1,10 @@
+﻿# Note personnelle sauvegardée (contenu privé)
+note.txt
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Environnement virtuel si jamais
+venv/
+.env
